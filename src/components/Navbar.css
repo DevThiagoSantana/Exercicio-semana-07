@@ -1,4 +1,4 @@
-.Navbar {
+.navbar {
   height: 98px;
   padding: 0 40px;
   background-color: #eaeaea; 
@@ -6,13 +6,13 @@
   align-items: center;
 }
 
-.Navbar h1 {
+.navbar h1 {
   font-size: 36px;
   line-height: 44px;
   color: #0171af; 
 }
 
-.Navbar .logo {
+.navbar .logo {
   display: flex;
   gap: 15px;
   height: 3rem;

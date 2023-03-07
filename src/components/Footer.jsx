@@ -2,7 +2,7 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <footer className="Footer">
+    <footer className="footer">
       <div className="info">
         <p>DEVinCursos | 2023</p>
       </div>

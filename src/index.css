@@ -1,7 +1,17 @@
 html,
 body,
 div,
-h1 {
+header,
+main,
+footer,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
   margin: 0;
   border: 0;
   padding: 0;
@@ -9,12 +19,17 @@ h1 {
 }
 
 body {
+  min-height: 100vh;
   font-family: sans-serif;
   background-color: #d7dbdd;
 }
 
 
 #root {
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
+}
+#pageContainer{
+  flex-grow:1;
 }

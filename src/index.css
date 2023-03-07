@@ -10,5 +10,11 @@ h1 {
 
 body {
   font-family: sans-serif;
-  background-color: #d7dbdd; /* gray */
+  background-color: #d7dbdd;
+}
+
+
+#root {
+  display: flex;
+  flex-direction: column;
 }

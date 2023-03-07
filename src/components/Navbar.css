@@ -1,0 +1,21 @@
+.Navbar {
+  height: 98px;
+  padding: 0 40px;
+  background-color: #eaeaea; 
+  display: flex;
+  align-items: center;
+}
+
+.Navbar h1 {
+  font-size: 36px;
+  line-height: 44px;
+  color: #0171af; 
+}
+
+.Navbar .logo {
+  display: flex;
+  gap: 15px;
+  height: 3rem;
+  width: 3rem;
+
+}

@@ -2,10 +2,8 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <footer className="footer">
-      <div className="info">
-        <p>DEVinCursos | 2023</p>
-      </div>
+    <footer className="footerContainer">
+      <p>DEVinCursos | 2023</p>
     </footer>
   );
 }

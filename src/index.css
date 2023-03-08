@@ -10,6 +10,9 @@ h3,
 h4,
 h5,
 h6,
+ul,
+ol,
+li,
 p,
 span {
   margin: 0;
@@ -31,5 +34,6 @@ body {
   flex-direction: column;
 }
 #pageContainer{
+  padding: 56px 64px;
   flex-grow:1;
 }
